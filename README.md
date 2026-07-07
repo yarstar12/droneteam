@@ -1,6 +1,8 @@
 # Система обноружения людей с БПЛА и построения траетктории полета без GPS
 ![](https://github.com/yarstar12/droneteam/blob/main/intro.png)
 > Интеллектуальная система поиска и обнаружения людей с использованием беспилотного летательного аппарата и компьютерного зрения.
+> 
+![](https://github.com/yarstar12/droneteam/blob/main/image72.gif)
 
 ## 📖 О проекте
 ![](https://github.com/yarstar12/droneteam/blob/main/possibility.png)
@@ -64,6 +66,8 @@
 
 ### 🗺 Построение карты
 ![](https://github.com/yarstar12/droneteam/blob/main/Track.png)
+![](https://github.com/yarstar12/droneteam/blob/main/image57.gif)
+
 Проект поддерживает:
 
 - построение **2D-траектории**;
